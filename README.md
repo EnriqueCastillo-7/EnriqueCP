@@ -21,6 +21,6 @@
 * 📱 **Orion:** Automatización de pruebas móviles en Android/iOS usando Appium. Inmersión en pruebas de interfaz de usuario y accesibilidad.
 * ⚙️ *Credisiman Visa-Facturación Electrónica Guatemala:** 
 
-Proyecto Wallmart CostaRica Migración OCM
+Proyecto 
 
-Proyecto OpsSmartops PBS El Salvador
+Proyecto 
